@@ -77,7 +77,7 @@ Business Stakeholders
 
 📌 Detailed Architecture Diagram
 
-![Architecture](assets/Architecture_diagram.drawio.png)
+![Architecture](assests/Architecture_diagram.png)
 
 ---
 
