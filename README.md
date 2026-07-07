@@ -416,11 +416,19 @@ The project includes:
 
 ---
 
+## ⚠️ Disclaimer
+
+This project was developed for educational and portfolio purposes.
+
+The company name **Polaris Fashion**, the **Aletheia Data Platform**, datasets, dashboards, and business scenarios are fictional and created solely to demonstrate data warehousing, ETL, SQL, and Business Intelligence concepts.
+
+---
+
 # 👨‍💻 Author
 
 ## Rudra Mahendrabhai Patel
 
-Computer Engineering Student
+Computer Engineering Undergraduate | Aspiring Data Engineer & Business Intelligence Developer
 
 **Areas of Interest**
 
