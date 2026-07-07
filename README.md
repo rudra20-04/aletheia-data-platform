@@ -101,7 +101,7 @@ The warehouse follows a **Star Schema** model.
 
 📌 Star Schema
 
-![Star Schema](docs/03_Star_Schema.pdf)
+![Star Schema](assests/star_schema.png)
 
 ---
 
